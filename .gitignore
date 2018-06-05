@@ -1,3 +1,5 @@
 # Created by .ignore support plugin (hsz.mobi)
 .idea/
 venv/
+backend/backend/__pycache__/
+node_modules/
